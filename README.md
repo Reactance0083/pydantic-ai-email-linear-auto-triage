@@ -1,3 +1,5 @@
+> **Commercial status:** Preview scaffold only. This repository is not currently a verified production-ready paid product. Do not treat it as commercially ready until this banner is removed.
+
 # Email→Linear Issue Auto-Triage
 
 Automatically convert incoming emails into prioritized Linear issues using AI-powered triage. Extract customer information, priority levels, and issue types from raw email content, then instantly create structured tickets in your Linear workspace with Slack notifications for urgent items.
