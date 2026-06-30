@@ -1,4 +1,9 @@
-> **Commercial status:** Preview scaffold only. This repository is not currently a verified production-ready paid product. Do not treat it as commercially ready until this banner is removed.
+> **Commercial status:** Preview/unverified starter. This repository is not the current flagship and is not currently a commercially verified paid product.
+
+
+## Current Status
+
+This repository is a preview/unverified starter. It is not the active flagship and is not currently commercially verified. Do not treat it as a ready-to-buy production package until this notice is removed after a fresh commercial-readiness check.
 
 # Email→Linear Issue Auto-Triage
 
@@ -6,7 +11,7 @@ Automatically convert incoming emails into prioritized Linear issues using AI-po
 
 ## Overview
 
-This template provides a production-ready FastAPI webhook service that:
+This template provides a preview FastAPI webhook service that:
 - Accepts emails via SMTP forwarding or Gmail API integration
 - Extracts priority, customer, and issue classification using Claude AI
 - Creates Linear issues with rich metadata and proper linking
