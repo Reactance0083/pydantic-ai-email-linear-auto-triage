@@ -1,7 +1,7 @@
 """
-Email→Linear Issue Auto-Triage
-FastAPI webhook that ingests emails, extracts priority/customer/issue type via Claude,
-and auto-creates Linear issues with metadata. Includes Slack notifications for urgent tickets.
+Email to Linear Triage Reference.
+Accepts email-shaped JSON and uses an OpenAI-backed PydanticAI agent.
+Experimental Linear/Slack integration; see README for current implementation gaps.
 """
 
 import json
